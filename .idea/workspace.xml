@@ -1,0 +1,156 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="0677ebb8-925f-4c28-873d-bf115e795d58" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/BankingSystem/src/main/java/banking/Company.java" beforeDir="false" afterPath="$PROJECT_DIR$/BankingSystem/src/main/java/banking/Company.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BankingSystem/src/main/java/banking/ConsumerAccount.java" beforeDir="false" afterPath="$PROJECT_DIR$/BankingSystem/src/main/java/banking/ConsumerAccount.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BankingSystem/src/test/java/banking/SampleTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/BankingSystem/src/test/java/banking/SampleTest.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="useMavenConfig" value="true" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="2LiwMJlY8lHD2stDZJ8tg3mGSE8" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/Users/sdeemene/Desktop/test/1181bf12-5ed2-47dd-ab48-5ff23c590167&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="banking" />
+    </key>
+  </component>
+  <component name="RunManager" selected="JUnit.SampleTest.createAccountHolder">
+    <configuration name="SampleTest.createAccountHolder" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="BankingSystem" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="banking.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="banking" />
+      <option name="MAIN_CLASS_NAME" value="banking.SampleTest" />
+      <option name="METHOD_NAME" value="createAccountHolder" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SampleTest.createCompany" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="BankingSystem" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="banking.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="banking" />
+      <option name="MAIN_CLASS_NAME" value="banking.SampleTest" />
+      <option name="METHOD_NAME" value="createCompany" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SampleTest.createPerson" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="BankingSystem" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="banking.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="banking" />
+      <option name="MAIN_CLASS_NAME" value="banking.SampleTest" />
+      <option name="METHOD_NAME" value="createPerson" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SampleTest.sequentialAccountNumberTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="BankingSystem" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="banking.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="banking" />
+      <option name="MAIN_CLASS_NAME" value="banking.SampleTest" />
+      <option name="METHOD_NAME" value="sequentialAccountNumberTest" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SampleTest.transactionCreditTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="BankingSystem" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="banking.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="banking" />
+      <option name="MAIN_CLASS_NAME" value="banking.SampleTest" />
+      <option name="METHOD_NAME" value="transactionCreditTest" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.SampleTest.createAccountHolder" />
+        <item itemvalue="JUnit.SampleTest.transactionCreditTest" />
+        <item itemvalue="JUnit.SampleTest.sequentialAccountNumberTest" />
+        <item itemvalue="JUnit.SampleTest.createCompany" />
+        <item itemvalue="JUnit.SampleTest.createPerson" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="0677ebb8-925f-4c28-873d-bf115e795d58" name="Changes" comment="" />
+      <created>1676367161788</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1676367161788</updated>
+      <workItem from="1676367163874" duration="6512000" />
+      <workItem from="1676373719590" duration="14000" />
+      <workItem from="1676383271657" duration="22000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
